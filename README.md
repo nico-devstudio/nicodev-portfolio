@@ -1,16 +1,62 @@
-# React + Vite
+# NicoDev Studio — Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal developer portfolio showcasing my projects, technical skills, and journey as a web developer. Built to present my work and demonstrate my growing experience in frontend and full-stack development.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**[Visit My Portfolio](https://nicodev-portfolio.vercel.app/)**
 
-## React Compiler
+## 📸 Preview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+[NicoDev Studio Portfolio](./public/screenshots/portfolio-preview.png)
 
-## Expanding the ESLint configuration
+## 🚀 Featured Projects
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### ShopNico
+
+A responsive shopping cart application built with React, JavaScript, and CSS.
+
+- Product search and category filtering
+- Cart quantity management and stock validation
+- Checkout simulation and inventory updates
+- Responsive layout for desktop, tablet, and mobile
+
+**Tech Stack:** React, JavaScript, Vite, CSS
+
+- [Live Demo](https://nico-devstudio.github.io/shopnico/)
+- [GitHub Repository](https://github.com/nico-devstudio/shopnico)
+
+### NixDock
+
+A full-stack workspace management application for freelancers and small service businesses to manage clients, projects, tasks, and deadlines.
+
+**Tech Stack:** React, Node.js, Express, PostgreSQL
+
+- Add your NixDock live demo link
+- Add your NixDock GitHub repository link
+
+## 🛠️ Technologies
+
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express
+- **Database:** PostgreSQL
+- **Development Tools:** Git, GitHub, VS Code, Vite
+
+## ✨ Portfolio Features
+
+- Introduction and developer profile
+- Technical skills and technologies
+- Selected projects and project details
+- Links to project repositories and live demos
+- Responsive design for different screen sizes
+- Contact information
+
+## 🎯 Purpose
+
+This portfolio documents my progress as a developer, highlights practical projects, and provides a central place to explore my work.
+
+## 📬 Contact
+
+- **GitHub:** [nico-devstudio](https://github.com/nico-devstudio)
+
+Thank you for visiting my portfolio!
